@@ -3,7 +3,7 @@ import Dinner from './dinner.js'
 function App() {
   return (
    <div className="App"> 
- <Dinner dishName="yakhni"/>
+ <Dinner dishName="yakhni" scndDish="pulao"/>
 
     </div>
   );
